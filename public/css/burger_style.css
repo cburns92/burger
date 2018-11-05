@@ -1,0 +1,36 @@
+.burger-image {
+    margin: auto
+}
+
+.title {
+    margin: auto;
+    font-weight: 600;
+}
+
+.burger-button {
+    margin: auto;
+}
+
+body {
+    background-color: tan;
+}
+
+img {
+    height: 250px;
+    width:auto;
+}
+
+h4 {
+    text-align: center;
+    font-weight: 600;
+}
+
+label {
+    display: block;
+    text-align: center;
+    font-weight: 600;
+}
+
+textarea {
+    resize: none;
+}
